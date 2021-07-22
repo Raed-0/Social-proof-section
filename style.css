@@ -1,0 +1,185 @@
+body {
+    font-size: 15px;
+    font-family: 'Spartan', sans-serif;
+    width: 1440px;
+    text-align: center;
+    position: relative;
+}
+
+.left{
+  position: absolute;
+  top: -75px;
+  left: -75px;
+}
+.right{
+  position: absolute;
+  bottom: -20px;
+  right: 100px;
+}
+
+
+.title{
+  text-align: left;
+  font-size: 25px;
+  color: hsl(300, 43%, 22%);
+  width: 350px;
+  height: 100px;
+  margin: 150px auto 55px 150px;
+  
+}
+
+.title-p{
+  font-size: 12px;
+  text-align: left;
+  width: 350px;
+  
+    margin: auto auto auto 150px;
+
+  
+}
+.rat{
+  
+  display: inline-block;
+  
+  margin-left: 30px;
+  padding-right: 30px;
+    color: hsl(300, 43%, 22%);
+
+  
+  
+  
+}
+.rev{
+    color: hsl(300, 43%, 22%);
+
+  border: 1px solid hsl(300, 24%, 96%);
+  
+  margin-bottom: 20px;
+  margin-left: 650px;
+  width: 420px;
+  background-color: hsl(300, 24%, 96%);
+  padding: 0px;
+  position: relative;
+  bottom: 170px;
+  
+  
+}
+.rep{
+  border: 1px solid hsl(300, 24%, 96%);
+  margin-left: 680px;
+  margin-bottom: 20px;
+  width: 420px;
+  background-color: hsl(300, 24%, 96%);
+  padding: 0px;
+    position: relative;
+  bottom: 170px;
+  
+  
+  
+  
+}
+.bet{
+  border: 1px solid hsl(300, 24%, 96%);
+  margin-left: 710px;
+  width: 420px;
+  background-color: hsl(300, 24%, 96%);
+  padding: 0px;
+  
+    position: relative;
+  bottom: 170px;
+  
+  
+  
+}
+.star{
+  margin-left: 5px;
+}
+
+
+
+.avatar{
+  float: left;
+  border-radius: 50%;
+  width: 15%;
+  margin-top: 40px;
+  margin-left: 25px;
+}
+.smith{
+  border: 1px solid hsl(300, 43%, 22%);
+  border-radius: 3%;
+  text-align: left;
+  display: inline-block;
+  
+  background-color: hsl(300, 43%, 22%);
+  width: 300px;
+  margin-top: -120px;
+  margin-right: 100px;
+  margin-left: 50px;
+  position: absolute;
+  left: 80px;
+  
+  
+  padding-bottom: 30px;
+  
+  
+}
+
+.roberts{
+    border: 1px solid hsl(300, 43%, 22%);
+  border-radius: 3%;
+  text-align: left;
+  display: inline-block;
+  
+  background-color: hsl(300, 43%, 22%);
+  width: 300px;
+  margin-top: -105px;
+  margin-right: 15px;
+  margin-left: 15px;
+  position: absolute;
+  left: 445px;
+  
+  
+  padding-bottom: 30px;
+  
+  
+}
+
+.wallace{
+    border: 1px solid hsl(300, 43%, 22%);
+  border-radius: 3%;
+  text-align: left;
+  display: inline-block;
+  
+  background-color: hsl(300, 43%, 22%);
+  width: 300px;
+  margin-top: -90px;
+  margin-right: 100px;
+  margin-left: 0px;
+  position: absolute;
+  left: 785px;
+  
+  
+  padding-bottom: 30px;
+  
+}
+.names{
+  color: white;
+  text-align: left;
+  margin-top: 40px;
+  display: block;
+  margin-left: 5.5rem;
+  margin-bottom: 5px;
+}
+.vb{
+  margin-top: 0px;
+  margin-left: 5.5rem;
+  color: hsl(333, 80%, 67%);
+  margin-bottom: 20px;
+}
+
+
+.msg{
+  color: white;
+  font-size: 13px;
+  margin: 0 25px;
+}
